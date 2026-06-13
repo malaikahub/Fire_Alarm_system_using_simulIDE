@@ -51,7 +51,8 @@ This project simulates an **Industrial Safety Monitoring and Control System** th
 ---
 
 ## 🖼 Circuit Diagram
-*(Insert circuit diagram image here)*
+
+<img width="627" height="503" alt="image" src="https://github.com/user-attachments/assets/c6f1342e-3705-48e4-b959-e4f41c010fab" />
 
 All sensor and output components are connected to the Arduino UNO as per the pin configuration above, with a shared common ground.
 
